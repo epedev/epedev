@@ -4,9 +4,7 @@
   <strong>Aspiring Penetration Tester | Recon & Web App Security Focus | Threat Intelligence</strong>
 </p>
 
-<p align="center">
-  Curious about how systems work, passionate about cybersecurity, and organized enough to turn ideas into projects.
-</p>
+
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alazar Elias 👋</h1>
+<h1 align="center">Hi, I'm Alazar Elias </h1>
 
 <p align="center">
   <strong>Aspiring Penetration Tester | Recon & Web App Security Focus | Threat Intelligence</strong>
@@ -12,7 +12,7 @@
 
 I'm a cybersecurity enthusiast focused on web application security, reconnaissance, and threat intelligence.
 
-My approach to learning is simple: understand the fundamentals, build practical projects, and document the journey. I enjoy exploring how systems operate, identifying weaknesses, and developing tools that improve visibility into security-related data.
+
 
 Currently, I'm focused on strengthening my offensive security skills while building projects that combine Linux, Python, and security research.
 
@@ -20,7 +20,7 @@ Currently, I'm focused on strengthening my offensive security skills while build
 
 ## 🚀 Current Project
 
-### Honeypot Intelligence Platform
+### Decoy System
 
 A threat intelligence project designed to collect and analyze real-world attacker activity.
 
@@ -60,8 +60,8 @@ The platform combines a honeypot environment with automated enrichment and visua
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,git,graphql,html,js,linux,mongodb,mysql,nextjs,nodejs,php,python,react" />
 </p>
 
 ### Security Tools
@@ -71,6 +71,16 @@ The platform combines a honeypot environment with automated enrichment and visua
 * Wireshark
 * Linux CLI
 * Git
+
+### Currently Working With
+
+* Web Application Security
+* Reconnaissance
+* Threat Intelligence
+* Python Automation
+* Linux Administration
+* Security Monitoring
+
 
 ---
 
@@ -102,4 +112,3 @@ The platform combines a honeypot environment with automated enrichment and visua
 
 ---
 
-> "Learn deeply. Build consistently. Document everything."

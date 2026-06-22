@@ -96,13 +96,6 @@ The platform combines a honeypot environment with automated enrichment and visua
 
 ---
 
-## 📌 What Drives Me
-
-* Curiosity to understand how systems work
-* Passion for continuous learning
-* Building practical security projects
-* Turning knowledge into real-world skills
-
 ---
 
 ## 📫 Connect

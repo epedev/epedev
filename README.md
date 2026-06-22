@@ -18,6 +18,26 @@ Currently, I'm focused on strengthening my offensive security skills while build
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=epedev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=epedev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=epedev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epedev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🚀 Current Project
 
 ### Decoy System
@@ -81,27 +101,6 @@ The platform combines a honeypot environment with automated enrichment and visua
 * Linux Administration
 * Security Monitoring
 
-
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epedev&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epedev&layout=compact&hide_border=true" />
-</p>
-
----
-
----
-
-## 📫 Connect
-
-* X (Twitter): https://x.com/epedev_
-* YouTube: https://youtube.com/@epedevsec
-
----
 

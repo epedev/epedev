@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://epedev.github.io">portfolio</a> ·
-  <a href="https://github.com/epedev">github</a>
+  <a href="https://epedev.github.io">portfolio</a> 
 </p>
 
 ---
@@ -14,8 +13,7 @@
 ## About
 
 Self-directed offensive security researcher based in Addis Ababa. Focused on
-web application security, reconnaissance, and decoy infrastructure. Working
-toward INSA and Ethio-CERT.
+web application security, reconnaissance, and decoy infrastructure.
 
 Bug bounty hunting on Bugcrowd, homelab-driven infra work, and building
 privacy-first AI tooling on my own data instead of third-party services.
@@ -45,8 +43,6 @@ categorize live attack traffic at a scale relevant to CERT-level operations.
 * Postgres
 * Docker
 * Grafana
-* systemd
-* psycopg2
 
 ---
 
@@ -73,17 +69,3 @@ categorize live attack traffic at a scale relevant to CERT-level operations.
 * Linux CLI
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epedev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=epedev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epedev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>

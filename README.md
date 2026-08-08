@@ -1,18 +1,18 @@
-<h1 align="center">epedev</h1>
+<h1 align="center">Epedev</h1>
 
 <p align="center">
   <strong>Offensive Security Researcher — Web App Security | Recon | Threat Intelligence</strong>
 </p>
 
 <p align="center">
-  <a href="https://epedev.github.io">portfolio</a> 
+  <a href="https://epedev.github.io">Portfolio</a> 
 </p>
 
 ---
 
 ## About
 
-Self-directed offensive security researcher based in Addis Ababa. Focused on
+Self-directed offensive security researcher. Focused on
 web application security, reconnaissance, and decoy infrastructure.
 
 Bug bounty hunting on Bugcrowd, homelab-driven infra work, and building

@@ -1,12 +1,5 @@
 # epedev
 
-> Recruiter-friendly proof and contact path.
-
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
-## Header
-> Editing this section in the inspector.
-Hi, I'm **epedev**. This README is tuned for **get hired** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=epedev&theme=github-dark&mode=light" />

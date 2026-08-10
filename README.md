@@ -1,6 +1,3 @@
-# epedev
-
-> Offensive security proof-of-work and contact path.
 
 ## Header
 

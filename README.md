@@ -6,6 +6,7 @@
 
 <br/>
 
+→ Full write‑ups, projects, and research live on
 [![Portfolio](https://img.shields.io/badge/Portfolio-epedev.github.io-F5A623?style=for-the-badge&logo=googlechrome&logoColor=0A192F)](https://epedev.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-epedev-0A192F?style=for-the-badge&logo=github&logoColor=F5A623)](https://github.com/epedev)
 
@@ -16,7 +17,6 @@
 ### About Me
 Offensive security researcher, red team. Focused on web application pentesting, recon, and threat intelligence pulled from live attacker traffic.
 
-→ Full write‑ups, projects, and research live on **[my portfolio](https://epedev.github.io/).**
 
 <br/>
 

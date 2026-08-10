@@ -35,6 +35,17 @@ Offensive security, focused on web application pentesting, reconnaissance, and t
 
 ## GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=epedev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=F5A623&icon_color=3B82F6&text_color=8892B0&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epedev&layout=compact&hide=jupyter+notebook&langs_count=8&theme=transparent&hide_border=true&title_color=F5A623&text_color=8892B0&bg_color=00000000" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=epedev&theme=dark&hide_border=true&background=00000000&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0" width="90%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=epedev&theme=react-dark&bg_color=00000000&color=8892B0&line=F5A623&point=3B82F6&hide_border=true&area=true&area_color=F5A623" width="90%"/>
+
+</div>
+
 
 
 

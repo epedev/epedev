@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:112240&height=110&section=header&text=epedev&fontSize=36&fontColor=F5A623&fontAlignY=45&desc=offensive%20security%20%7C%20recon%20%7C%20honeypots&descAlignY=72&descSize=13&descColor=8892B0" width="100%"/>
 
-`$ whoami` — security researcher, Addis Ababa ET — targeting INSA / Ethio-CERT
+`$ whoami` — cyber security student security researcher, Ethiopia
 
 </div>
 
@@ -12,11 +12,8 @@
 
 Offensive security, focused on web application pentesting, reconnaissance, and threat intelligence pulled from live attacker traffic rather than synthetic labs.
 
-Currently at the INSA 5th Round Cyber Talent Summer Camp (Haramaya University) — showcase August 24, 2026.
-
 Flagship project: a **Honeypot Intelligence Platform** — decoy service on Azure, ingestion into Postgres, visualized in Grafana, alerting on dead-man's-switch — built to categorize real attacker TTPs, not simulated ones.
 
-Privacy-first by default: own infrastructure over third-party services wherever the trade-off is reasonable.
 
 <br>
 

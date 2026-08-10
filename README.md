@@ -1,23 +1,11 @@
 <div align="center">
 
-<!-- Matrix rain terminal header -->
-<pre style="background:#0A192F; color:#00FF41; padding: 25px 30px; border-radius: 12px; font-family: 'Courier New', monospace; line-height: 1.4; border: 1px solid #00FF41; box-shadow: 0 0 15px rgba(0,255,65,0.2); display: inline-block; text-align: left;">
-<span style="color:#00FF41;">⣿⡇⠿⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢿⣿⡇⣿⣿⣿⡇⢿⣿⡇⠿⣿⣿⡏</span>
-<span style="color:#00FF41;">⣿⣧  ⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⡇⣿⣿⣿⡇ ⣿⡇  ⣿⡇</span>
-<span style="color:#00FF41;">⣿⣿⣷⣿⡇⣿⣿⣿⣿⣿⣿⣿⡿⠁ ⣿⡇⣿⣿⣿⡇ ⣿⡇⣿⣿⣿⡇</span>
-
-<span style="color:#F5A623;">┌──(epedev㉿kali)-[~]</span>
-<span style="color:#F5A623;">└─$</span> <span style="color:#00FF41;">whoami</span>
-   epedev — offensive security | recon | honeypots
-
-<span style="color:#F5A623;">┌──(epedev㉿kali)-[~]</span>
-<span style="color:#F5A623;">└─$</span> <span style="color:#00FF41;">cat portfolio</span>
-   <a href="https://epedev.github.io" style="color:#F5A623; font-weight: bold;">epedev.github.io</a>
-</pre>
+<!-- Animated Terminal Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=800&height=140&lines=epedev%40arch%20~%3E%20whoami;Offensive%20security%20%7C%20Bug%20bounty%20hunter;epedev%40arch%20~%3E%20systemctl%20status%20honeypot-intel;Extracting%20TTPs%20from%20live%20decoy%20traffic;epedev%40arch%20~%3E%20cat%20portfolio;https%3A%2F%2Fepedev.github.io" alt="Typing SVG" />
 
 <br/>
 
-<!-- About Me – placed right at the top as you asked -->
+<!-- About Me -->
 ### About Me
 Offensive security researcher, red team. Focused on web application pentesting, recon, and threat intelligence pulled from live attacker traffic.
 

@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# **epedev**
+# **Epedev**
 `Offensive Security` • `Web Pentesting` • `Threat Intel`
 
 <br/>

@@ -1,3 +1,9 @@
+# epedev
+
+> Offensive security proof-of-work and contact path.
+
+## Header
+
 <div align="center">
 
 **[epedev.github.io](https://epedev.github.io/)**
@@ -8,9 +14,17 @@
 
 </div>
 
-<br>
+## About Me
 
-## Stack
+Offensive security, focused on web application pentesting, reconnaissance, and threat intelligence pulled from live attacker traffic rather than synthetic labs.
+
+Currently at the INSA 5th Round Cyber Talent Summer Camp (Haramaya University) — showcase August 24, 2026.
+
+Flagship project: a **Honeypot Intelligence Platform** — decoy service on Azure, ingestion into Postgres, visualized in Grafana, alerting on dead-man's-switch — built to categorize real attacker TTPs, not simulated ones.
+
+Privacy-first by default: own infrastructure over third-party services wherever the trade-off is reasonable.
+
+## Skills
 
 <div align="center">
 
@@ -24,3 +38,35 @@
 ![Azure](https://img.shields.io/badge/Azure-0A192F?style=flat-square&logo=microsoftazure&logoColor=8892B0)
 
 </div>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=epedev&show_icons=true&theme=transparent&hide_border=true&title_color=F5A623&icon_color=3B82F6&text_color=8892B0&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epedev&layout=compact&theme=transparent&hide_border=true&title_color=F5A623&text_color=8892B0&bg_color=00000000" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=epedev&theme=dark&hide_border=true&background=00000000&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0" width="90%"/>
+
+</div>
+
+## Projects
+
+**honeypot-intel-platform**
+Flask decoy on Azure → Postgres ingestion → Grafana dashboards → systemd-timed, dead-man's-switch alerting. Live categorization of PHPUnit RCE, ThinkPHP, GeoServer/Hikvision/D-Link CVE probes.
+`Python` `Postgres` `Docker` `Grafana`
+
+**epedev-site**
+Terminal-themed portfolio — Next.js 15, TypeScript, Tailwind — markdown-based blog pipeline, deployed to GitHub Pages.
+`Next.js` `TypeScript` `Tailwind`
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=flat-square&logo=github&logoColor=F5A623)](https://github.com/epedev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=flat-square&logo=googlechrome&logoColor=3B82F6)](https://epedev.github.io/)
+
+</div>
+
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->

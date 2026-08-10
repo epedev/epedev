@@ -1,16 +1,21 @@
 <div align="center">
 
-**[epedev.github.io](https://epedev.github.io/)**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:112240&height=110&section=header&text=epedev&fontSize=36&fontColor=F5A623&fontAlignY=45&desc=offensive%20security%20%7C%20recon%20%7C%20honeypots&descAlignY=72&descSize=13&descColor=8892B0" width="100%"/>
+<pre style="background:#0A192F; color:#CCD6F6; padding: 25px; border-radius: 12px; font-family: 'Courier New', monospace; text-align: left; display: inline-block; border: 1px solid #3B82F6;">
+<span style="color:#F5A623;">┌──(epedev㉿kali)-[~]</span>
+<span style="color:#F5A623;">└─$</span> whoami
+   epedev — offensive security | recon | honeypots
+<span style="color:#F5A623;">┌──(epedev㉿kali)-[~]</span>
+<span style="color:#F5A623;">└─$</span> cat location
+   Ethiopia
+</pre>
 
 <br/>
 
-`$ whoami` — security researcher, red team, Ethiopia
+<img src="https://streak-stats.demolab.com?user=epedev&theme=dark&hide_border=true&background=00000000&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0" width="80%"/>
 
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-F5A623?style=for-the-badge&logo=googlechrome&logoColor=0A192F&labelColor=0A192F)](https://epedev.github.io/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=epedev&theme=react-dark&bg_color=00000000&color=8892B0&line=F5A623&point=3B82F6&hide_border=true&area=true&area_color=F5A623" width="80%"/>
 
 </div>
 
@@ -18,9 +23,9 @@
 
 ### About Me
 
-Offensive security — web application pentesting, reconnaissance, and threat intelligence drawn from live attacker traffic.
+Offensive security — web application pentesting, reconnaissance, and threat intelligence pulled from live attacker traffic.
 
-→ **All projects, write‑ups, and research live at [epedev.github.io](https://epedev.github.io/).**
+→ **Everything else lives at [epedev.github.io](https://epedev.github.io/).**
 
 ---
 

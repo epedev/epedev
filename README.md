@@ -1,6 +1,16 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=epedev&fontSize=60&fontColor=F5A623&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+# **epedev**
+`Offensive Security` • `Web Pentesting` • `Threat Intel`
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-epedev.github.io-F5A623?style=for-the-badge&logo=googlechrome&logoColor=0A192F)](https://epedev.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-epedev-0A192F?style=for-the-badge&logo=github&logoColor=F5A623)](https://github.com/epedev)
+
 </div>
+
 
 <!-- About Me -->
 ### About Me

@@ -12,7 +12,7 @@
 
 Offensive security, focused on web application pentesting, reconnaissance, and threat intelligence pulled from live attacker traffic rather than synthetic labs.
 
-Flagship project: a **Honeypot Intelligence Platform** — decoy service on Azure, ingestion into Postgres, visualized in Grafana, alerting on dead-man's-switch — built to categorize real attacker TTPs, not simulated ones.
+
 
 
 <br>

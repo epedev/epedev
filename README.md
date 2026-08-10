@@ -1,9 +1,6 @@
 <div align="center">
-
-<!-- Animated Terminal Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=800&height=140&lines=epedev%40arch%20~%3E%20whoami;Offensive%20security%20%7C%20Bug%20bounty%20hunter;epedev%40arch%20~%3E%20systemctl%20status%20honeypot-intel;Extracting%20TTPs%20from%20live%20decoy%20traffic;epedev%40arch%20~%3E%20cat%20portfolio;https%3A%2F%2Fepedev.github.io" alt="Typing SVG" />
-
-<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=epedev&fontSize=60&fontColor=F5A623&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
 <!-- About Me -->
 ### About Me

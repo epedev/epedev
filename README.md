@@ -6,9 +6,7 @@
 
 <br/>
 
-→ Full write‑ups, projects, and research live on
 [![Portfolio](https://img.shields.io/badge/Portfolio-epedev.github.io-F5A623?style=for-the-badge&logo=googlechrome&logoColor=0A192F)](https://epedev.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-epedev-0A192F?style=for-the-badge&logo=github&logoColor=F5A623)](https://github.com/epedev)
 
 </div>
 
@@ -31,9 +29,4 @@ Offensive security researcher, red team. Focused on web application pentesting, 
 
 ---
 
-<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=flat-square&logo=github&logoColor=F5A623)](https://github.com/epedev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F5A623?style=flat-square&logo=googlechrome&logoColor=0A192F)](https://epedev.github.io/)
-
-</div>

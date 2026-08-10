@@ -40,14 +40,12 @@ Offensive security, focused on web application pentesting, reconnaissance, and t
 <img src="https://github-readme-stats.vercel.app/api?username=epedev&show_icons=true&theme=transparent&hide_border=true&title_color=F5A623&icon_color=3B82F6&text_color=8892B0&bg_color=00000000" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epedev&layout=compact&theme=transparent&hide_border=true&title_color=F5A623&text_color=8892B0&bg_color=00000000" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=epedev&theme=dark&hide_border=true&background=00000000&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=8892B0&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0" width="90%"/>
+
 
 </div>
 
 
-**epedev-site**
-Terminal-themed portfolio — Next.js 15, TypeScript, Tailwind — markdown-based blog pipeline, deployed to GitHub Pages.
-`Next.js` `TypeScript` `Tailwind`
+
 
 ## Connect
 
